@@ -58,4 +58,4 @@ The final phase involves turning Dory into a miniature self-driving car. Impleme
 
 ## License
 
-This project is licensed under the MIT License.
+This project is licensed under the MIT License - see the [LICENSE.md]([link-to-license.md](https://github.com/sunnyleeyun/Dory-robo-car/blob/main/LICENSE)) file for details.
