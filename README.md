@@ -26,9 +26,9 @@ Dory is a self-driving robot that evolves through multiple phases, starting from
 ## Project Overview
 
 ### Phase 1: Kit Assembly
-In this phase, you will assemble the basic robot kit named Dory. Follow the [assembly guide](link-to-assembly-guide) for detailed instructions.
+In this phase, I assemble the basic robot kit named Dory.
 
-[![Kit Assembly](https://img.youtube.com/vi/bzxTaA192z4/0.jpg)](https://www.youtube.com/watch?v=bzxTaA192z4)
+[![Kit Assembly](https://markdown-videos-api.jorgenkh.no/youtube/bzxTaA192z4)](https://youtu.be/bzxTaA192z4)
 
 *Watch Dory's Kit Assembly.*
 
