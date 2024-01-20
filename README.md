@@ -32,13 +32,15 @@ In this phase, I assemble the basic robot kit named Dory.
 
 *Watch Dory's Kit Assembly.*
 
-### Phase 2: Motion-Activated Guard Robot (Coming Soon!)
-Transform Dory into a motion-activated guard robot. This phase focuses on implementing motion detection and response mechanisms. **Expected release - 01/20/2024**
+### Phase 2: Motion-Activated Guard Robot
+Transform Dory into a motion-activated guard robot. This phase focuses on implementing motion detection and response mechanisms. Begin by assembling the circuit, mounting the PIR (Passive Infrared) sensor, and conducting thorough testing to ensure optimal functionality.
+
+[![Motion-Activated Guard Robot](https://markdown-videos-api.jorgenkh.no/youtube/tmjtvHnfMyI)](https://youtu.be/tmjtvHnfMyI)
 
 *See Dory as a Motion-Activated Guard Robot in action.*
 
-### Phase 3: Light-Tracking Robot
-Enhance Dory's capabilities by making it capable of tracking and following light sources.
+### Phase 3: Light-Tracking Robot (Coming Soon!)
+Enhance Dory's capabilities by making it capable of tracking and following light sources. **Expected release - 01/23/2024**
 
 *Watch Dory's Light-Tracking capabilities.*
 
