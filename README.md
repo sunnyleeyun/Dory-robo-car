@@ -18,8 +18,8 @@ Dory is a self-driving robot that evolves through multiple phases, starting from
 
 - Kit assembly with wheels, breadboard, engines, and battery case.
 - Motion-activated guard robot
-- Light-tracking robot
 - Line-tracking robot
+- Light-tracking robot
 - Obstacle-avoiding robot
 - Miniature self-driving car
 
@@ -39,15 +39,15 @@ Transform Dory into a motion-activated guard robot. This phase focuses on implem
 
 *See Dory as a Motion-Activated Guard Robot in action.*
 
-### Phase 3: Light-Tracking Robot (Coming Soon!)
-Enhance Dory's capabilities by making it capable of tracking and following light sources. **Expected release - 01/23/2024**
-
-*Watch Dory's Light-Tracking capabilities.*
-
-### Phase 4: Line-Tracking Robot
-Implement line-tracking algorithms to enable Dory to follow predefined paths.
+### Phase 3: Line-Tracking Robot (Coming Soon!)
+Implement line-tracking algorithms to enable Dory to follow predefined paths. **Expected release - 01/23/2024**
 
 *Dory demonstrating Line-Tracking.*
+
+### Phase 4: Light-Tracking Robot
+Enhance Dory's capabilities by making it capable of tracking and following light sources.
+
+*Watch Dory's Light-Tracking capabilities.*
 
 ### Phase 5: Obstacle Avoiding Robot
 Equip Dory with obstacle avoidance capabilities using sensors to navigate its environment.
