@@ -16,7 +16,7 @@ Dory is a self-driving robot that evolves through multiple phases, starting from
 
 ## Features
 
-- Kit assembly with wheels, breadboard, screws, and battery case.
+- Kit assembly with wheels, breadboard, engines, and battery case.
 - Motion-activated guard robot
 - Light-tracking robot
 - Line-tracking robot
