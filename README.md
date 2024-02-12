@@ -89,7 +89,7 @@ Implement line-tracking algorithms with IR sensors, detecting white and black, a
 ---
 
 ### Phase 4: Light-Tracking Robot (Coming Soon!)
-Enhance Dory's capabilities by making it capable of tracking and following light sources. **Expected Launch: Jan. 30**
+Enhance Dory's capabilities by making it capable of tracking and following light sources. **Expected Launch: Feb. 16**
 
 *Watch Dory's Light-Tracking capabilities.*
 
